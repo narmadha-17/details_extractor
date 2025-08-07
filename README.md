@@ -1,4 +1,4 @@
-# Smart Company Info Extractor
+# Smart Info Extractor
 
 This Python script uses LinkedIn scraping, image comparison, and the Tavily Search API to extract structured company details from a set of input URLs—or by searching when none are provided.  It intelligently compares a local company logo to logos found on LinkedIn to identify the most accurate URL match before extracting company information. This project is an intelligent Python-based solution for extracting **structured company information** from web pages, primarily using **LinkedIn** and other business platforms (ZoomInfo, Crunchbase, etc.). It combines **web scraping**, **LLM-based extraction**, and **image similarity comparison** to identify the most relevant company information.
 
